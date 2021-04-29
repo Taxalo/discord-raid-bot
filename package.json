@@ -1,0 +1,10 @@
+{
+  "name": "rbot",
+  "version": "29m4y20",
+  "description": "Raid bot",
+  "main": "raid.js",
+  "author": "Taxalo#8998",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
